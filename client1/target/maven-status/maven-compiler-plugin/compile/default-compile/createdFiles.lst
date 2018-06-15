@@ -1,0 +1,5 @@
+com\example\client1\TestController.class
+com\example\client1\WebListener.class
+com\example\client1\RegistryConfig.class
+com\example\client1\Client1Application.class
+META-INF\spring-configuration-metadata.json
